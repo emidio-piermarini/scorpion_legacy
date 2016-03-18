@@ -1,0 +1,14 @@
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\bin\Debug\SCORPIONETABS.dll
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\bin\Debug\SCORPIONETABS.pdb
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.csprojResolveAssemblyReference.cache
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.Properties.Resources.resources
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.csproj.GenerateResource.Cache
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.dll
+C:\Users\jriad\GitDirectory\scorpion-etabs-practise\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.pdb
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\bin\Debug\SCORPIONETABS.dll
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\bin\Debug\SCORPIONETABS.pdb
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.Properties.Resources.resources
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.csproj.GenerateResource.Cache
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.dll
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.pdb
+C:\Users\janderss\Documents\Scorpion\Scorpion till jimmie\SCORPION\SCORPIONETABS\obj\Debug\SCORPIONETABS.csprojResolveAssemblyReference.cache
